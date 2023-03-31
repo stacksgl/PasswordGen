@@ -6,3 +6,8 @@ Po kliknutí na tlačítko "Generate Password/Generate Username" stránka vygene
 nebo uživatelské jméno v závislosti na zadaných preferencích a zobrazí je na obrazovce.
 
 Tuto stránku jsem vytvořil za účelem zlepšení svých schopností s CSS, HTML a JS.
+Děkuji https://github.com/boing1337, že mi byl ochoten pomoct s pochopením některých částí JavaScriptu.
+
+Wordlists:
+https://raw.githubusercontent.com/david47k/top-english-wordlists/master/top_english_nouns_lower_10000.txt
+https://raw.githubusercontent.com/david47k/top-english-wordlists/master/top_english_adjs_mixed_10000.txt
